@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jmsalaz0312@gmail.com
+	name = juan salazar
